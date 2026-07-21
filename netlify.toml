@@ -1,0 +1,4 @@
+[build]
+  base = "google-keep-clone"
+  command = "npm install && npm run build"
+  publish = "dist"
